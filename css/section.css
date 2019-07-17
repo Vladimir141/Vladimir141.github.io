@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,400i,600,600i,700,700i|Oswald:400,500,600,700&display=swap');
 section.home {
-  background-image: url("../img/Fone.png");
+  background-image: url("../img/Fone.jpg");
   background-position: top center;
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -87,7 +87,7 @@ section.facts .herowrapper p {
 }
 section.facts .countfacts {
   padding: 30px 0 0;
-  background: url(../img/fact.png);
+  background: url(../img/fact.jpg);
   background-color: #000;
   background-position: center center;
   background-attachment: fixed;
@@ -291,7 +291,7 @@ section.info-map .call-box .call-hero h2:after {
   margin: 15px auto 20px;
 }
 section.footer {
-  background: url(../img/Fone3.png) no-repeat center;
+  background: url(../img/Fone3.jpg) no-repeat center;
   background-size: cover;
   height: 800px;
 }
