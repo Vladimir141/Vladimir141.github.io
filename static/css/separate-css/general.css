@@ -172,7 +172,7 @@ table td {
   padding: 5px;
 }
 section.home {
-  background-image: url("../../img/general/Fone.jpg");
+  background-image: url("../img/Fone.jpg");
   background-position: top center;
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -259,7 +259,7 @@ section.facts .herowrapper p {
 }
 section.facts .countfacts {
   padding: 30px 0 0;
-  background: url("../../img/general/fact.jpg");
+  background: url(../img/fact.jpg);
   background-color: #000;
   background-position: center center;
   background-attachment: fixed;
@@ -463,7 +463,7 @@ section.info-map .call-box .call-hero h2:after {
   margin: 15px auto 20px;
 }
 section.footer {
-  background: url("../../img/general/Fone3.jpg") no-repeat center;
+  background: url(../img/Fone3.jpg) no-repeat center;
   background-size: cover;
   height: 800px;
 }
@@ -588,8 +588,7 @@ footer {
   background-color: #000;
   color: #fff;
   background-size: cover;
-  height: auto;
-  width: 100%;
+  height: 100%;
 }
 footer .footer-text {
   font-size: 18px;
