@@ -1,1 +1,0 @@
-!function(u){u.fn.countTo=function(t){return this.each(function(){var t=u(this),n=parseInt(t.attr("data-count-from")),a=parseInt(t.attr("data-count-to")),o=t.attr("data-count-speed"),e=n,r=function(){e<a?(t.text(Math.floor(e)),e+=o/60,requestAnimationFrame(r)):t.text(a)};requestAnimationFrame(r)})}}(jQuery),$(".number-counter").countTo();
