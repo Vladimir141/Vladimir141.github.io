@@ -1,0 +1,1 @@
+"use strict";$(".popup-youtube").magnificPopup({type:"iframe"});
